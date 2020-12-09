@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="188">
+	<com.4d>
+		<general>
+			<automatisms startup_mode="0"/>
+		</general>
+		<structure pk_defaultName="ID"/>
+		<method_editor>
+			<options auto_quote="true" autohide_collapse_button="false" show_blocks_hilite="false" show_blocks_lines="false" show_lists="false"/>
+			<general font_name="Consolas" font_size="12"/>
+			<back_color>
+				<color alpha="255" blue="30" green="30" red="30"/>
+			</back_color>
+			<cursor_line_color>
+				<color alpha="255" blue="33" green="33" red="33"/>
+			</cursor_line_color>
+			<syntax_style syntax="4D">
+				<syntax kind="plain_text">
+					<color alpha="255" blue="204" green="204" red="204"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="commands">
+					<color alpha="255" blue="214" green="156" red="86"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="keywords">
+					<color alpha="255" blue="192" green="134" red="197"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="tables">
+					<color alpha="255" blue="120" green="145" red="206"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="fields">
+					<color alpha="255" blue="142" green="164" red="215"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="methods">
+					<color alpha="255" blue="176" green="201" red="78"/>
+					<style bold="false" italic="true" underline="false"/>
+				</syntax>
+				<syntax kind="local_variables">
+					<color alpha="255" blue="254" green="220" red="156"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="process_variables">
+					<color alpha="255" blue="170" green="220" red="220"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="interprocess_variables">
+					<color alpha="255" blue="136" green="0" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="parameters">
+					<color alpha="255" blue="214" green="156" red="86"/>
+					<style bold="true" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="constants">
+					<color alpha="255" blue="120" green="145" red="206"/>
+					<style bold="false" italic="false" underline="true"/>
+				</syntax>
+				<syntax kind="plug_ins">
+					<color alpha="255" blue="214" green="156" red="86"/>
+					<style bold="true" italic="true" underline="false"/>
+				</syntax>
+				<syntax kind="comments">
+					<color alpha="255" blue="83" green="83" red="83"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="errors">
+					<color alpha="255" blue="86" green="117" red="249"/>
+					<style bold="true" italic="true" underline="false"/>
+				</syntax>
+				<syntax kind="member">
+					<color alpha="255" blue="212" green="212" red="212"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="memberFunc">
+					<color alpha="255" blue="176" green="201" red="78"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+			</syntax_style>
+			<syntax_style syntax="SQL">
+				<syntax kind="normal">
+					<color alpha="255" blue="212" green="212" red="212"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="keywords">
+					<color alpha="255" blue="214" green="156" red="86"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="numbers">
+					<color alpha="255" blue="176" green="201" red="58"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="strings">
+					<color alpha="255" blue="120" green="145" red="206"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="names">
+					<color alpha="255" blue="212" green="212" red="212"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="comparisons">
+					<color alpha="255" blue="170" green="220" red="220"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="function_keywords">
+					<color alpha="255" blue="192" green="134" red="197"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="debug">
+					<color alpha="255" blue="120" green="114" red="197"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+			</syntax_style>
+			<cursor_line_back_color>
+				<color alpha="255" blue="66" green="66" red="66"/>
+			</cursor_line_back_color>
+			<same_word_back_color>
+				<color alpha="255" blue="204" green="204" red="204"/>
+			</same_word_back_color>
+			<hilite_block_back_color>
+				<color alpha="255" blue="204" green="204" red="204"/>
+			</hilite_block_back_color>
+		</method_editor>
+	</com.4d>
+	<internal_prefs_4d>
+		<backup>
+			<completion backup_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI[0003].4BK" data_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI.4DD" structure_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI.4DB"/>
+			<completion backup_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI[0005].4BK" data_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI.4DD" structure_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI.4DB"/>
+			<completion backup_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI[0006].4BK" data_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI.4DD" structure_path="C:\Users\Théau\Documents\POWERAPI.4dbase\POWERAPI.4DB"/>
+		</backup>
+		<explorer default_page="3" expanded="true"/>
+		<layout_editor fold_tools="false" prop_list_themes_shown="11111111111111111111111111111111111" show_more="true" show_props="true" use_themes="true"/>
+	</internal_prefs_4d>
+</preferences>
